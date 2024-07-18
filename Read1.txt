@@ -3,5 +3,4 @@ welcome to git
 
 Adding for conflict in local repo
 Adding in remote for verifying
-
 Amazing
